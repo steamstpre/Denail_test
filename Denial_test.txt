@@ -1,0 +1,27 @@
+Public class test : monobiheiver
+{ 
+privare string name = "danylo";
+public int age = 13;
+private  bool status = true ;
+public float time = 13f;
+void start() 
+{
+
+}
+
+public int age()
+{
+return 15;
+}
+public float metod()
+{
+return 13.565f;
+}
+public bool indestand()
+{
+return true;
+}
+public string matod()
+{
+return "danylo";
+}
